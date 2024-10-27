@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🔍 About Me
+🌱 Currently diving deeper into C and C++ for algorithms and data structures.
+💡 Experienced in Java, HTML, CSS, JavaScript, SQL, and React Native.
+🖥️ Sharing projects from my studies, exercises from Beecrowd, and challenges from programming competitions.
+👩‍💻 Tech Girl in STEM, supporting more women in tech!
 
-<!--
-**isaaflor/isaaflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Skills & Interests
+- Strong focus on C++ and HTML
+ Open to learning and collaboration in new tech areas
+- Interests in mathematics and literature
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+LinkedIn: linkedin.com/in/isabelleflorencio/
+Email: isabelleaflor@gmail.com
